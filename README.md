@@ -1,7 +1,8 @@
 # dictionary
 
-A new Flutter application.
-
+A flutter application which help to search meaning of words,I think thats what dictionary is !!
+Inspired by Samartha Agrawal https://www.youtube.com/watch?v=ZjFzDZ4KV-s .........
+I  just added few changes and posted this because want to learn to use git and version control
 ## Getting Started
 
 This project is a starting point for a Flutter application.
