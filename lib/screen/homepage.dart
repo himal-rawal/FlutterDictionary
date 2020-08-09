@@ -15,7 +15,8 @@ class _DictionaryState extends State<Dictionary> {
   TextEditingController _controller = TextEditingController();
   StreamController _streamController;
   Stream _stream;
-  String _token = "57c41f6e6084406f1e0c7e71f22f2be87629e7f2";
+  String _token =
+      "57c41f6e6084406f1e0c7e71f22f2be87629e7f2"; //enter your api key
   String _url = "https://owlbot.info/api/v4/dictionary/";
   Timer _debounce;
 
@@ -121,7 +122,7 @@ class _DictionaryState extends State<Dictionary> {
                           height: 70,
                         ),
                         Text("About:"),
-                        Text("Produced By: Himal Rawal"),
+                        Text("Produced By: Traitor"),
                         Text("@copyright 2020"),
                         Text("Great thanks to owlbot.info")
                       ],
